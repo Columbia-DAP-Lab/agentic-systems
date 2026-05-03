@@ -1,0 +1,35 @@
+baseurl: /COMS-6113-Fall-2026
+url: ""
+title: COMS6113-E001 Topics in Agentic Systems
+subtitle: Columbia University course site
+author: Columbia University
+simple_search: http://google.com/search
+description: Research-oriented Columbia course site for COMS6113-E001 Topics in Agentic Systems.
+name: COMS-6113-Fall-2026
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+permalink: /articles/:short_year/:title
+timezone: America/New_York
+excerpt_separator: <!--more-->
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
+  - README.md
+  - Makefile
+  - LICENSE
+  - css/tufte.scss
+  - css/tufte.orginal.css
+destination: docs
+post:
+  template: _post.txt
+  extension: md
+page:
+  template: _page.txt
+  extension: md
+editor: gvim
+git:
+  branch: main
+transfer:
+  command: rsync
+  settings: -av
+  source: _site/

@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body class="full-width">
+    {% include header.html %}
+    <main class="course-shell">
+      <article>
+        {{ content }}
+      </article>
+      {% include action-items.html %}
+    </main>
+    {% include print-footer.html %}
+    {% include footer.html %}
+  </body>
+</html>

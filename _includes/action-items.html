@@ -1,0 +1,47 @@
+<aside class="course-rail" aria-label="Pinned course information, action items, and important dates">
+  <section class="rail-section">
+    <h2>Course Info</h2>
+    <ul class="rail-list">
+      {% for item in site.data.action_items.course_info %}
+        <li>
+          <span class="rail-label">{{ item.label }}</span>
+          <span class="rail-detail">{{ item.detail }}</span>
+        </li>
+      {% endfor %}
+    </ul>
+
+    <h3 class="rail-subheading">Staff</h3>
+    <ul class="rail-list staff-list">
+      {% for person in site.data.action_items.staff %}
+        <li>
+          <a class="staff-name" href="{{ person.url }}">{{ person.name }}</a>
+          <span class="rail-detail">Office hours: {{ person.office_hours }}</span>
+        </li>
+      {% endfor %}
+    </ul>
+  </section>
+
+  <section class="rail-section">
+    <h2>Action Items</h2>
+    <ul class="rail-list">
+      {% for item in site.data.action_items.action_items %}
+        <li>
+          <span class="rail-label">{{ item.label }}</span>
+          <span class="rail-detail">{{ item.detail }}</span>
+        </li>
+      {% endfor %}
+    </ul>
+  </section>
+
+  <section class="rail-section">
+    <h2>Important Dates</h2>
+    <ul class="rail-list">
+      {% for item in site.data.action_items.important_dates %}
+        <li>
+          <span class="rail-label">{{ item.date }}</span>
+          <span class="rail-detail">{{ item.detail }}</span>
+        </li>
+      {% endfor %}
+    </ul>
+  </section>
+</aside>

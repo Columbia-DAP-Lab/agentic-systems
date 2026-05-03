@@ -1,0 +1,32 @@
+phd_notice:
+  enabled: true
+
+course_info:
+  - label: Class time
+    detail: Friday 10:10am-12pm
+  - label: Location
+    detail: TBD
+  - label: Slack
+    detail: TBD
+
+staff:
+  - name: Kostis Kaffes
+    url: https://www.cs.columbia.edu/~kkaffes/
+    office_hours: TBD
+  - name: Georgios Liargkovas
+    url: https://liargkovas.com
+    office_hours: TBD
+
+action_items:
+  - label: Due Sep 18
+    detail: Fill in the team matching questionnaire and project ideas.
+  - label: Due Sep 28
+    detail: TBD
+  - label: TBD
+    detail: TBD
+
+important_dates:
+  - date: Sep 18
+    detail: Project idea questionnaire due.
+  - date: Dec 11
+    detail: Final project presentations.

@@ -3,7 +3,7 @@ layout: default
 title: COMS6113-E001 Topics in Agentic Systems
 ---
 
-# COMS6113-E001 Topics in Agentic Systems
+# COMS6113: Topics in Agentic Systems
 
 {% if site.data.action_items.phd_notice.enabled %}
 <div class="course-notice">
@@ -14,11 +14,11 @@ title: COMS6113-E001 Topics in Agentic Systems
 
 ## Overview
 
-COMS6113-E001 Topics in Agentic Systems is a research-oriented course on agentic AI systems: systems that can plan, call tools, coordinate with humans, and act across software, data, and organizational environments.
+COMS6113 Topics in Agentic Systems is a research-oriented course on agentic AI systems: systems that can plan, call tools, coordinate with humans, and act across software, data, and organizational environments.
 
 The course is targeted toward Ph.D. students and undergraduate or graduate students who are interested in doing research, especially students interested in producing a publication. Students should be ready to read research papers closely, discuss speculative ideas in class, and develop a semester-long research project.
 
-The course will examine open research problems across systems, AI, HCI, data management, evaluation, TBD.
+The course will examine open research problems across the systems stack.
 
 Broad questions include:
 
@@ -64,19 +64,17 @@ Project goals:
 - Present results clearly to the class.
 - Write the final result as a full publication-ready research paper.
 
-Possible project areas include TBD.
+Possible project areas include LLM serving for agents, agentic workflow optimization, using AI agents for system optimization, agentic sandbox development and optimization, and many more.
 
 ## Syllabus
 
 ### Course Expectations
 
-> TBD section
-
 Students are expected to actively participate in class discussions; participation is mandatory.
 
 Students should be comfortable reading research papers; you will read, answer questions, and comment on the readings before class.
 
-Students should be comfortable coding data processing systems; familiarity with database query execution, some machine learning, and algorithms is expected.
+Students should be comfortable coding in large systems codebases.
 
 Students should be comfortable conducting a research project and writing up the results as a full research paper.
 
@@ -92,7 +90,7 @@ Participation is mandatory. The topics in the course are speculative and forward
 
 ### Slack
 
-There will be heavy use of Slack:
+There will be heavy use of Slack.
 
 You are expected to ask and answer questions on Slack.
 
@@ -100,32 +98,26 @@ You are expected to ask and answer questions on Slack.
 
 Refer to Columbia's academic honesty policy if you are at all unsure.
 
-You must write all the code you hand in for the programming assignments, except for code that we give you as part of the assignment. You are not allowed to look at anyone else's solution, you are not allowed to look at solutions from previous years, and you are not allowed to look at solutions from other universities. You may discuss the assignments with other students, but you may not look at or use each other's code. The same rule holds for the question assignments: you must write all answers yourself, not look at others' answers, but you can discuss the questions with others at a high level. You are also not allowed to look for or at solutions to the assignments on the Internet. You can search for small pieces of code that solve small parts of your assignments, and you may use tutorials to learn, however if you copy any code from anywhere, we request that you identify the origin in a comment in the code.
+For the research project you are highly encouraged to use AI tools as much as possible.
 
 Your reviews must be written originally, and be based on your own understanding and thoughts about the reading. Copying or paraphrasing content written by others is not allowed.
 
-Be advised that we will be running all assignments through the MOSS code similarity tool, which is very accurate even after significant amount of obfuscation, so we will identify and report anyone who attempts to breach this rule. We will include in our tests solutions from previous years both from Columbia and elsewhere. Both copy-ers and copy-ees will be punished. You are responsible for protecting your code and homeworks from others and not leaving them lying around in publicly open directories.
-
-Finally, you may discuss the questions for each assignment with other students, but you may not look at other students' answers. You must write your answers yourself.
-
 ## FAQ
-
-### Who should take this class?
-
-Students who want to do research on agentic systems should take this class. The course is designed for Ph.D. students and for advanced undergraduate or graduate students who are comfortable reading research papers, asking research questions, building systems, and writing up results as a full paper. It is a good fit for students interested in having a publication.
-
-### Who should not take this class?
-
-This is probably not the right class if you want a mostly lecture-based course, or a course focused only on using commercial agent tools. The course is speculative and research-driven, so students should expect ambiguity, open problems, discussion, and project work.
-
-### What background is expected?
-
-Students should be comfortable reading research papers, have familiarity with systems concepts TBD
 
 ### What kind of project will I do?
 
-You need to come up with a novel idea on agentic systems ... TBD. 
+Every project must be about agentic systems. Projects should ask a concrete research question about systems that can plan, call tools, coordinate with humans, or act across software, data, or organizational environments.
 
-### Can my bring my own PhD project?
+Projects will be done in teams. The minimum team size is 3 students, so students should expect to find and convince at least two other students to work with them on a shared project idea.
 
-Unless your project is relevant to the course goals, you are strongly discouraged on working on it as part of the course project. If you are not sure, please reach out to us on Slack.
+### How will projects be structured?
+
+Each project will have a shepherd who meets weekly with the students. The shepherd will help the team refine the research question, scope the work, identify related work, make progress, and prepare deliverables.
+
+Students are expected to make progress every week. Each lecture will include student progress presentations to the class, so teams should be prepared to regularly explain what they tried, what they learned, what did not work, and what they plan to do next.
+
+The course will have multiple project deliverables throughout the semester, not only a final presentation or final paper.
+
+### Can I bring my own Ph.D. project?
+
+No. The course project is not meant to be a way to continue an unrelated Ph.D. project. All course projects must be about agentic systems and must satisfy the project expectations for this class, including team formation, weekly shepherd meetings, regular in-class progress presentations, and intermediate deliverables.

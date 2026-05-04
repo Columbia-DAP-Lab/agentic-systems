@@ -39,7 +39,7 @@ Remove generated output:
 make clean
 ```
 
-The site is configured with `baseurl: /courses/agentic-systems`, matching the intended DAP Lab course path.
+The site is configured with `baseurl: /agentic-systems`, matching the GitHub Pages project path under the DAP Lab domain.
 
 ## Publishing
 
@@ -56,7 +56,7 @@ After that, every push to `main` automatically builds and deploys the site.
 Expected project URL for the current remote:
 
 ```text
-https://daplab.cs.columbia.edu/courses/agentic-systems/
+https://daplab.cs.columbia.edu/agentic-systems/
 ```
 
-This path must be routed by the DAP Lab website or hosting configuration. A standalone GitHub Pages project repo normally publishes at its repository path unless the organization site routes this course path to the built output.
+This is the normal project-site path for this repository under the DAP Lab Pages domain.

@@ -1,11 +1,11 @@
-baseurl: /COMS-6113-Fall-2026
-url: ""
+baseurl: /COMS-6113-E001-Fall-2026
+url: https://columbia-dap-lab.github.io
 title: COMS6113-E001 Topics in Agentic Systems
 subtitle: Columbia University course site
 author: Columbia University
 simple_search: http://google.com/search
 description: Research-oriented Columbia course site for COMS6113-E001 Topics in Agentic Systems.
-name: COMS-6113-Fall-2026
+name: COMS-6113-E001-Fall-2026
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 permalink: /articles/:short_year/:title
 timezone: America/New_York
@@ -17,6 +17,10 @@ exclude:
   - README.md
   - Makefile
   - LICENSE
+  - Dockerfile
+  - docker-compose.yml
+  - dockerfile.yml
+  - .github
   - css/tufte.scss
   - css/tufte.orginal.css
 destination: docs

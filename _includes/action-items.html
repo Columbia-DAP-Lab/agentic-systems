@@ -1,6 +1,13 @@
 <aside class="course-rail" aria-label="Pinned course information, action items, and important dates">
   <section class="rail-section">
     <h2>Course Info</h2>
+    <h3 class="rail-subheading">Lecture</h3>
+    <ul class="rail-list">
+      <li>
+        <span class="rail-detail">{{ site.data.action_items.lecture.day_time }}</span>
+      </li>
+    </ul>
+
     <ul class="rail-list">
       {% for item in site.data.action_items.course_info %}
         <li>
@@ -14,6 +21,7 @@
     <ul class="rail-list staff-list">
       {% for person in site.data.action_items.staff %}
         <li>
+          <span class="staff-role">{{ person.role }}:</span>
           <a class="staff-name" href="{{ person.url }}">{{ person.name }}</a>
           <span class="rail-detail">Office hours: {{ person.office_hours }}</span>
         </li>

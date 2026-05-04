@@ -39,4 +39,22 @@ Remove generated output:
 make clean
 ```
 
-The site is configured with `baseurl: /COMS-6113-Fall-2026`, matching the expected GitHub Pages project path.
+The site is configured with `baseurl: /COMS-6113-E001-Fall-2026`, matching the expected GitHub Pages project path.
+
+## Publishing
+
+This repository includes a GitHub Actions workflow at `.github/workflows/deploy-pages.yml`.
+
+After pushing to GitHub, enable Pages once:
+
+1. Open the repository on GitHub.
+2. Go to `Settings` -> `Pages`.
+3. Under `Build and deployment`, set `Source` to `GitHub Actions`.
+
+After that, every push to `main` automatically builds and deploys the site.
+
+Expected project URL for the current remote:
+
+```text
+https://columbia-dap-lab.github.io/COMS-6113-E001-Fall-2026/
+```

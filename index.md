@@ -49,8 +49,8 @@ Broad questions include:
 | 10 | Nov 13 | TBD |
 | 11 | Nov 20 | TBD |
 | 12 | Nov 27 | No class: Thanksgiving break |
-| 13 | Dec 4 | TBD |
-| 14 | Dec 11 | Final project presentations |
+| 13 | Dec 4 | **Final project presentations** |
+| 14 | Dec 11 | No class |
 
 ## Project
 

@@ -15,6 +15,13 @@ The site is intentionally reset to a course scaffold. Add the confirmed syllabus
 
 ## Local development
 
+Install the Ruby dependencies once. They are stored in the ignored `.bundle/`
+directory inside this repository:
+
+```sh
+bundle install --path .bundle/vendor
+```
+
 Build the generated site:
 
 ```sh
@@ -26,6 +33,8 @@ Serve the site locally:
 ```sh
 make serve
 ```
+
+Then open `http://127.0.0.1:4000/agentic-systems/`.
 
 If port `4000` is already in use:
 

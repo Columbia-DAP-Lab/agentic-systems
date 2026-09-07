@@ -1,9 +1,9 @@
 ---
 layout: default
-title: COMS6113-E001 Topics in Agentic Systems
+title: COMS6113-E001 Topics in Agentic Systems — Fall 2026
 ---
 
-# COMS6113: Topics in Agentic Systems
+# COMS6113: Topics in Agentic Systems — Fall 2026
 
 {% if site.data.action_items.phd_notice.enabled %}
 <div class="course-notice">
@@ -23,7 +23,9 @@ The course will examine open research problems across the systems stack.
 Broad questions include:
 
 - What infrastructure do data systems and ML systems need to support agentic workloads?
-- TBD
+- How can agents improve the design, operation, and optimization of data and ML systems?
+- How should systems isolate agent execution and control access to tools, data, and shared resources?
+- How can we evaluate agentic systems for reliability, performance, and cost on realistic tasks?
 
 ## Course Structure
 
@@ -35,22 +37,28 @@ Broad questions include:
 ## Schedule
 
 
-| Week | Date | Topic |
-| --- | --- | --- |
-| 1 | Sep 11 | TBD |
-| 2 | Sep 18 | TBD |
-| 3 | Sep 25 | TBD |
-| 4 | Oct 2 | TBD |
-| 5 | Oct 9 | TBD |
-| 6 | Oct 16 | TBD |
-| 7 | Oct 23 | TBD |
-| 8 | Oct 30 | TBD |
-| 9 | Nov 6 | TBD |
-| 10 | Nov 13 | TBD |
-| 11 | Nov 20 | TBD |
-| 12 | Nov 27 | No class: Thanksgiving break |
-| 13 | Dec 4 | **Final project presentations** |
-| 14 | Dec 11 | No class |
+<div class="schedule-table-wrapper" role="region" aria-label="Course schedule" tabindex="0" markdown="1">
+
+<!-- Turn each Slides label into a link when its Google Slides deck is ready. -->
+
+| Week | Date | Topic | Slides | Action item for next time |
+| --- | --- | --- | --- | --- |
+| 1 | Sep 11 | Intro; projects | Slides | Read [project descriptions](https://docs.google.com/document/d/1g3F_P0N2ADNb0rCtoMUajTb8ascpspPMIQxLrO9SA5w/edit?usp=sharing) |
+| 2 | Sep 18 | Project abstracts & pitches | Slides | Map related work |
+| 3 | Sep 25 | Related-work review | Slides | Begin the baseline; shortlist target conferences |
+| 4 | Oct 2 | **No class** | — | Complete the baseline; select a target conference |
+| 5 | Oct 9 | Baseline demo & target conference | Slides | Draft the motivation and research story |
+| 6 | Oct 16 | Motivation & research story | Slides | Complete the assigned reading |
+| 7 | Oct 23 | Instructor lecture | Slides | Create a system-design diagram |
+| 8 | Oct 30 | System-design diagram | Slides | Build a prototype; produce one figure |
+| 9 | Nov 6 | Prototype demo & first figure | Slides | Draft the full evaluation plan |
+| 10 | Nov 13 | Full evaluation plan | Slides | Run evaluations; prepare a results discussion |
+| 11 | Nov 20 | Results discussion & iteration | Slides | Revise results and the final paper |
+| 12 | Nov 27 | **No class: Thanksgiving break** | — | Complete the final paper |
+| 13 | Dec 4 | **Final paper submission** | Slides | Prepare the final presentation; complete the peer review |
+| 14 | Dec 11 | **Final project presentations; peer review due** | Slides | — |
+
+</div>
 
 ## Project
 
@@ -66,6 +74,8 @@ Project goals:
 
 Possible project areas include LLM serving for agents, agentic workflow optimization, using AI agents for system optimization, agentic sandbox development and optimization, and many more.
 
+Review the [project descriptions](https://docs.google.com/document/d/1g3F_P0N2ADNb0rCtoMUajTb8ascpspPMIQxLrO9SA5w/edit?usp=sharing).
+
 ## Syllabus
 
 ### Course Expectations
@@ -80,9 +90,15 @@ Students should be comfortable conducting a research project and writing up the 
 
 This is a research-oriented course targeted toward Ph.D. students and undergraduate or graduate students interested in doing research, especially students interested in having a publication.
 
-### Grading
+### Grading (Tentative)
 
-TBD
+| Component | Weight |
+| --- | ---: |
+| In-class participation | 30% |
+| Project development and weekly progress | 30% |
+| Final presentation and research artifact | 40% |
+
+The grading breakdown is tentative and may be refined before the first lecture.
 
 ### Participation
 
@@ -90,13 +106,11 @@ Participation is mandatory. The topics in the course are speculative and forward
 
 ### Slack
 
-There will be heavy use of Slack.
-
-You are expected to ask and answer questions on Slack.
+Join the [course Slack](https://join.slack.com/t/coms6113topic-zqd9570/shared_invite/zt-46z5wa0s6-ZrmfU4j9bF7SKYD3MgqW6g); you are expected to ask and answer questions there.
 
 ### Collaboration/Copying Policy
 
-Refer to Columbia's academic honesty policy if you are at all unsure.
+Refer to [Columbia's academic honesty policy](https://www.cs.columbia.edu/academic/academic-honesty/) if you are at all unsure.
 
 For the research project you are highly encouraged to use AI tools as much as possible.
 

@@ -2,30 +2,31 @@ phd_notice:
   enabled: true
 
 lecture:
-  day_time: Friday 10:10am-12pm<br>Location TBD
+  day_time: Friday, 10:10 a.m.–12:00 p.m.<br>MUDD 227
 
 course_info:
   - label: Slack
-    detail: TBD
+    url: https://join.slack.com/t/coms6113topic-zqd9570/shared_invite/zt-46z5wa0s6-ZrmfU4j9bF7SKYD3MgqW6g
+  - label: Google Calendar
+    url: https://calendar.google.com/calendar/u/0/newembed?src=c_b60dbada25b4a37367dd30056e16657f071ca5b564c4c3e3e8e64bccc38e10ec@group.calendar.google.com
+  - label: Project descriptions
+    url: https://docs.google.com/document/d/1g3F_P0N2ADNb0rCtoMUajTb8ascpspPMIQxLrO9SA5w/edit?usp=sharing
 
 staff:
   - role: Instructor
     name: Kostis Kaffes
     url: https://www.cs.columbia.edu/~kkaffes/
-    office_hours: TBD
+    office_hours: By appointment; reach out on Slack
   - role: TA
     name: Georgios Liargkovas
     url: https://liargkovas.com
-    office_hours: TBD
+    office_hours: By appointment; reach out on Slack
 
 action_items:
+  - label: Due Sep 11
+    detail: Sign up on Slack; find a group and preferred project; join the respective Slack channel.
+    url: https://join.slack.com/t/coms6113topic-zqd9570/shared_invite/zt-46z5wa0s6-ZrmfU4j9bF7SKYD3MgqW6g
   - label: Due Sep 18
-    detail: Fill in the team matching questionnaire and project ideas.
-  - label: Due Sep 28
-    detail: TBD
-
-important_dates:
-  - date: Sep 18
-    detail: Project idea questionnaire due.
-  - date: Dec 11
-    detail: Final project presentations.
+    detail: Prepare a project abstract and pitch.
+  - label: Due Sep 25
+    detail: Prepare a concise related-work map.

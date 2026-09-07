@@ -2,13 +2,14 @@
 
 HOST ?= 127.0.0.1
 PORT ?= 4000
+JEKYLL ?= bundle exec jekyll
 
 build:
 	rm -rf docs
-	jekyll build
+	$(JEKYLL) build
 
 serve:
-	jekyll serve --host $(HOST) --port $(PORT)
+	$(JEKYLL) serve --host $(HOST) --port $(PORT)
 
 clean:
 	rm -rf docs

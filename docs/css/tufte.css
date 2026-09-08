@@ -321,7 +321,7 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
 .course-shell article ul {
   box-sizing: border-box;
   width: 100%;
-  max-width: 70ch;
+  max-width: none;
   font-size: clamp(1.15rem, 0.95rem + 0.3vw, 1.3rem);
   line-height: 1.6;
 }

@@ -23,10 +23,6 @@ staff:
     office_hours: By appointment; reach out on Slack
 
 action_items:
-  - label: Due Sep 11
+  - label: Due Sep 11 End of Day
     detail: Sign up on Slack; find a group and preferred project; join the respective Slack channel.
     url: https://join.slack.com/t/coms6113topic-zqd9570/shared_invite/zt-46z5wa0s6-ZrmfU4j9bF7SKYD3MgqW6g
-  - label: Due Sep 18
-    detail: Prepare a project abstract and pitch.
-  - label: Due Sep 25
-    detail: Prepare a concise related-work map.

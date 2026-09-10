@@ -43,7 +43,7 @@ Broad questions include:
 
 | Week | Date | Topic | Slides | Action item for next time |
 | --- | --- | --- | --- | --- |
-| 1 | Sep 11 | Intro; projects | Slides | Read [project descriptions](https://docs.google.com/document/d/1g3F_P0N2ADNb0rCtoMUajTb8ascpspPMIQxLrO9SA5w/edit?usp=sharing) |
+| 1 | Sep 11 | Intro; projects | Slides | Read [project descriptions](https://docs.google.com/document/d/1Vl1rhJXF3YNbMzYxPTASYBiAOf5wzyHQn6gyN5LZJmU/edit?usp=sharing) |
 | 2 | Sep 18 | Project abstracts & pitches | Slides | Map related work |
 | 3 | Sep 25 | Related-work review | Slides | Begin the baseline; shortlist target conferences |
 | 4 | Oct 2 | **No class** | — | Complete the baseline; select a target conference |
@@ -74,7 +74,7 @@ Project goals:
 
 Possible project areas include LLM serving for agents, agentic workflow optimization, using AI agents for system optimization, agentic sandbox development and optimization, and many more.
 
-Review the [project descriptions](https://docs.google.com/document/d/1g3F_P0N2ADNb0rCtoMUajTb8ascpspPMIQxLrO9SA5w/edit?usp=sharing).
+Review the [project descriptions](https://docs.google.com/document/d/1Vl1rhJXF3YNbMzYxPTASYBiAOf5wzyHQn6gyN5LZJmU/edit?usp=sharing).
 
 ## Syllabus
 

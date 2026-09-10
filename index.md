@@ -94,9 +94,10 @@ This is a research-oriented course targeted toward Ph.D. students and undergradu
 
 | Component | Weight |
 | --- | ---: |
-| In-class participation | 30% |
-| Project development and weekly progress | 30% |
-| Final presentation and research artifact | 40% |
+| Class participation / discussion (+ reviewing) | 25% |
+| Weekly updates | 25% |
+| Final presentation | 25% |
+| Final paper | 25% |
 
 The grading breakdown is tentative and may be refined before the first lecture.
 

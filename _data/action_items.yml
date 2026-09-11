@@ -1,6 +1,3 @@
-phd_notice:
-  enabled: true
-
 lecture:
   day_time: Friday, 10:10 a.m.–12:00 p.m.<br>MUDD 227
 
@@ -21,8 +18,3 @@ staff:
     name: Georgios Liargkovas
     url: https://liargkovas.com
     office_hours: By appointment; reach out on Slack
-
-action_items:
-  - label: Due Sep 11 End of Day
-    detail: Sign up on Slack; find a group and preferred project; join the respective Slack channel.
-    url: https://join.slack.com/t/coms6113topic-zqd9570/shared_invite/zt-46z5wa0s6-ZrmfU4j9bF7SKYD3MgqW6g

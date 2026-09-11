@@ -18,7 +18,7 @@
   <!-- Load MathJax only when enabled in _data/options.yml -->
   
 
-  <link rel="canonical" href="http://localhost:4000/agentic-systems/">
+  <link rel="canonical" href="https://daplab.cs.columbia.edu/agentic-systems/">
 </head>
 
   <body>
@@ -40,8 +40,37 @@
       <article class="group">
         <h1 id="coms6113-topics-in-agentic-systems--fall-2026">COMS6113: Topics in Agentic Systems — Fall 2026</h1>
 
-<div class="course-notice">
-  This is by default a Ph.D.-level class. Before enrolling in the course, please read the <a href="/agentic-systems/#faq">FAQ</a>.
+<div class="course-notice immediate-todos">
+
+  <h2 id="immediate-todos">Immediate TODOs</h2>
+
+  <ol>
+    <li>Get to know and chat with each other after class today.</li>
+    <li>Sign up for the course <a href="https://join.slack.com/t/coms6113topic-zqd9570/shared_invite/zt-46z5wa0s6-ZrmfU4j9bF7SKYD3MgqW6g">Slack</a>.</li>
+    <li>Read the <a href="https://docs.google.com/document/d/1g3F_P0N2ADNb0rCtoMUajTb8ascpspPMIQxLrO9SA5w/edit?usp=sharing">project descriptions</a>.</li>
+    <li><em>By EOD Monday:</em>
+      <ol>
+        <li>Discuss with other students on Slack.</li>
+        <li>Decide on a project.</li>
+        <li>Tag Kostis and Georgios on the Slack channel with the team.</li>
+        <li>After that <em>please</em> do not drop the course.</li>
+      </ol>
+    </li>
+  </ol>
+
+  <h3 id="waitlist">Waitlist?</h3>
+
+  <p>WHOEVER HAS:</p>
+
+  <ol>
+    <li><strong>DECIDED ON A PROJECT.</strong></li>
+    <li><strong>COMMUNICATED THE DECISION TO US THROUGH SLACK IN THE PROJECT’S CHANNEL.</strong></li>
+  </ol>
+
+  <p><strong>BY EOD MONDAY</strong></p>
+
+  <p><strong>WILL BE ADMITTED TO THE CLASS FROM THE WAITLIST</strong></p>
+
 </div>
 
 <h2 id="overview">Overview</h2>
@@ -91,34 +120,34 @@
         <td>1</td>
         <td>Sep 11</td>
         <td>Intro; projects</td>
-        <td>Slides</td>
-        <td>Read <a href="https://docs.google.com/document/d/1Vl1rhJXF3YNbMzYxPTASYBiAOf5wzyHQn6gyN5LZJmU/edit?usp=sharing">project descriptions</a></td>
+        <td><a href="/agentic-systems/assets/slides/intro.pdf">Intro</a></td>
+        <td><a href="/agentic-systems/assets/slides/intro.svg">Project pitch</a> (<a href="https://docs.google.com/presentation/d/1NckcYtXcqGHQG9jKxJEJEZ-79LHxtctmKXTGCCmAFA8/edit?slide=id.p#slide=id.p">Template</a>)</td>
       </tr>
       <tr>
         <td>2</td>
         <td>Sep 18</td>
-        <td>Project abstracts &amp; pitches</td>
+        <td>Project pitch</td>
         <td>Slides</td>
-        <td>Map related work</td>
+        <td>Prepare a short related-work overview; write up related work for the paper</td>
       </tr>
       <tr>
         <td>3</td>
         <td>Sep 25</td>
-        <td>Related-work review</td>
+        <td>Short overview of related work by every team; related-work write-up for the paper</td>
         <td>Slides</td>
-        <td>Begin the baseline; shortlist target conferences</td>
+        <td>Run a baseline and prepare the first figure for Oct 9</td>
       </tr>
       <tr>
         <td>4</td>
         <td>Oct 2</td>
         <td><strong>No class</strong></td>
         <td>—</td>
-        <td>Complete the baseline; select a target conference</td>
+        <td>Continue baseline work; prepare the first figure for Oct 9</td>
       </tr>
       <tr>
         <td>5</td>
         <td>Oct 9</td>
-        <td>Baseline demo &amp; target conference</td>
+        <td>Run a baseline; show the first figure</td>
         <td>Slides</td>
         <td>Draft the motivation and research story</td>
       </tr>
@@ -204,6 +233,8 @@
   <li>Write the final result as a full publication-ready research paper.</li>
 </ul>
 
+<p><strong>Each group will lead a lecture on their related work, randomly assigned between October 9 and November 13. You can swap lectures—let us know early!</strong></p>
+
 <p>Possible project areas include LLM serving for agents, agentic workflow optimization, using AI agents for system optimization, agentic sandbox development and optimization, and many more.</p>
 
 <p>Review the <a href="https://docs.google.com/document/d/1Vl1rhJXF3YNbMzYxPTASYBiAOf5wzyHQn6gyN5LZJmU/edit?usp=sharing">project descriptions</a>.</p>
@@ -275,7 +306,7 @@
 
 <p>Every project must be about agentic systems. Projects should ask a concrete research question about systems that can plan, call tools, coordinate with humans, or act across software, data, or organizational environments.</p>
 
-<p>Projects will be done in teams. The minimum team size is 3 students, so students should expect to find and convince at least two other students to work with them on a shared project idea.</p>
+<p>By default, you will work on one of the predefined course projects. Groups should have approximately 4 students, with a minimum of 2. The target outcome is an OSDI, ICML, or VLDB submission.</p>
 
 <h3 id="how-will-projects-be-structured">How will projects be structured?</h3>
 
@@ -285,12 +316,19 @@
 
 <p>The course will have multiple project deliverables throughout the semester, not only a final presentation or final paper.</p>
 
-<h3 id="can-i-bring-my-own-phd-project">Can I bring my own Ph.D. project?</h3>
+<h3 id="can-i-bring-my-own-phd-hobby-or-start-up-project">Can I bring my own Ph.D., hobby, or start-up project?</h3>
 
-<p>No. The course project is not meant to be a way to continue an unrelated Ph.D. project. All course projects must be about agentic systems and must satisfy the project expectations for this class, including team formation, weekly shepherd meetings, regular in-class progress presentations, and intermediate deliverables.</p>
+<p>By default, no: you should work on a predefined course project. An exception is possible only if <strong>all</strong> of the following apply:</p>
+
+<ol>
+  <li>You send your proposed project to Kostis <strong>today (September 11)</strong>.</li>
+  <li>The project is about <strong>agents + systems</strong>.</li>
+  <li>You are willing to have more people join your project.</li>
+  <li>Kostis approves the project.</li>
+</ol>
 
       </article>
-      <aside class="course-rail" aria-label="Pinned course information and action items">
+      <aside class="course-rail" aria-label="Course information">
   <section class="rail-section">
     <h2>Course Info</h2>
     <h3 class="rail-subheading">Lecture</h3>
@@ -304,15 +342,15 @@
     <ul class="rail-list useful-links">
 
         <li>
-          <a class="rail-label rail-link" href="https://join.slack.com/t/coms6113topic-zqd9570/shared_invite/zt-46z5wa0s6-ZrmfU4j9bF7SKYD3MgqW6g">Slack</a>
+<a class="rail-label rail-link" href="https://join.slack.com/t/coms6113topic-zqd9570/shared_invite/zt-46z5wa0s6-ZrmfU4j9bF7SKYD3MgqW6g">Slack</a>
         </li>
 
         <li>
-          <a class="rail-label rail-link" href="https://calendar.google.com/calendar/u/0/newembed?src=c_b60dbada25b4a37367dd30056e16657f071ca5b564c4c3e3e8e64bccc38e10ec@group.calendar.google.com">Google Calendar</a>
+<a class="rail-label rail-link" href="https://calendar.google.com/calendar/u/0/newembed?src=c_b60dbada25b4a37367dd30056e16657f071ca5b564c4c3e3e8e64bccc38e10ec@group.calendar.google.com">Google Calendar</a>
         </li>
 
         <li>
-          <a class="rail-label rail-link" href="https://docs.google.com/document/d/1Vl1rhJXF3YNbMzYxPTASYBiAOf5wzyHQn6gyN5LZJmU/edit?usp=sharing">Project descriptions</a>
+<a class="rail-label rail-link" href="https://docs.google.com/document/d/1Vl1rhJXF3YNbMzYxPTASYBiAOf5wzyHQn6gyN5LZJmU/edit?usp=sharing">Project descriptions</a>
         </li>
 
     </ul>
@@ -330,17 +368,6 @@
           <span class="staff-role">TA:</span>
           <a class="staff-name" href="https://liargkovas.com">Georgios Liargkovas</a>
           <span class="rail-detail">Office hours: By appointment; reach out on Slack</span>
-        </li>
-
-    </ul>
-  </section>
-
-  <section class="rail-section">
-    <h2>Action Items</h2>
-    <ul class="rail-list">
-
-        <li class="action-item">
-          <span class="rail-label">Due Sep 11 End of Day:</span> <a class="rail-detail rail-link" href="https://join.slack.com/t/coms6113topic-zqd9570/shared_invite/zt-46z5wa0s6-ZrmfU4j9bF7SKYD3MgqW6g">Sign up on Slack; find a group and preferred project; join the respective Slack channel.</a>
         </li>
 
     </ul>

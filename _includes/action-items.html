@@ -1,4 +1,4 @@
-<aside class="course-rail" aria-label="Pinned course information and action items">
+<aside class="course-rail" aria-label="Course information">
   <section class="rail-section">
     <h2>Course Info</h2>
     <h3 class="rail-subheading">Lecture</h3>
@@ -12,7 +12,7 @@
     <ul class="rail-list useful-links">
 {% for item in site.data.action_items.course_info %}
         <li>
-          {% if item.url %}<a class="rail-label rail-link" href="{{ item.url }}">{{ item.label }}</a>{% else %}<span class="rail-label">{{ item.label }}</span>{% endif %}{% if item.detail %}<span class="rail-detail">{{ item.detail }}</span>{% endif %}
+{% if item.url %}<a class="rail-label rail-link" href="{{ item.url }}">{{ item.label }}</a>{% else %}<span class="rail-label">{{ item.label }}</span>{% endif %}{% if item.detail %}<span class="rail-detail">{{ item.detail }}</span>{% endif %}
         </li>
 {% endfor %}
     </ul>
@@ -24,17 +24,6 @@
           <span class="staff-role">{{ person.role }}:</span>
           <a class="staff-name" href="{{ person.url }}">{{ person.name }}</a>
           <span class="rail-detail">Office hours: {{ person.office_hours }}</span>
-        </li>
-{% endfor %}
-    </ul>
-  </section>
-
-  <section class="rail-section">
-    <h2>Action Items</h2>
-    <ul class="rail-list">
-{% for item in site.data.action_items.action_items %}
-        <li class="action-item">
-          <span class="rail-label">{{ item.label }}:</span>{% if item.url %} <a class="rail-detail rail-link" href="{{ item.url }}">{{ item.detail }}</a>{% else %} <span class="rail-detail">{{ item.detail }}</span>{% endif %}
         </li>
 {% endfor %}
     </ul>

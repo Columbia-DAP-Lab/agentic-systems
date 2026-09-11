@@ -5,11 +5,31 @@ title: COMS6113-E001 Topics in Agentic Systems — Fall 2026
 
 # COMS6113: Topics in Agentic Systems — Fall 2026
 
-{% if site.data.action_items.phd_notice.enabled %}
-<div class="course-notice">
-  This is by default a Ph.D.-level class. Before enrolling in the course, please read the <a href="{{ site.baseurl }}/#faq">FAQ</a>.
+<div class="course-notice immediate-todos" markdown="1">
+
+## Immediate TODOs
+
+1. Get to know and chat with each other after class today.
+2. Sign up for the course [Slack](https://join.slack.com/t/coms6113topic-zqd9570/shared_invite/zt-46z5wa0s6-ZrmfU4j9bF7SKYD3MgqW6g).
+3. Read the [project descriptions](https://docs.google.com/document/d/1g3F_P0N2ADNb0rCtoMUajTb8ascpspPMIQxLrO9SA5w/edit?usp=sharing).
+4. *By EOD Monday:*
+   1. Discuss with other students on Slack.
+   2. Decide on a project.
+   3. Tag Kostis and Georgios on the Slack channel with the team.
+   4. After that *please* do not drop the course.
+
+### Waitlist?
+
+WHOEVER HAS:
+
+1. **DECIDED ON A PROJECT.**
+2. **COMMUNICATED THE DECISION TO US THROUGH SLACK IN THE PROJECT’S CHANNEL.**
+
+**BY EOD MONDAY**
+
+**WILL BE ADMITTED TO THE CLASS FROM THE WAITLIST**
+
 </div>
-{% endif %}
 
 
 ## Overview
@@ -43,11 +63,11 @@ Broad questions include:
 
 | Week | Date | Topic | Slides | Action item for next time |
 | --- | --- | --- | --- | --- |
-| 1 | Sep 11 | Intro; projects | Slides | Read [project descriptions](https://docs.google.com/document/d/1Vl1rhJXF3YNbMzYxPTASYBiAOf5wzyHQn6gyN5LZJmU/edit?usp=sharing) |
-| 2 | Sep 18 | Project abstracts & pitches | Slides | Map related work |
-| 3 | Sep 25 | Related-work review | Slides | Begin the baseline; shortlist target conferences |
-| 4 | Oct 2 | **No class** | — | Complete the baseline; select a target conference |
-| 5 | Oct 9 | Baseline demo & target conference | Slides | Draft the motivation and research story |
+| 1 | Sep 11 | Intro; projects | [Intro]({{ site.baseurl }}/assets/slides/intro.pdf) | [Project pitch]({{ site.baseurl }}/assets/slides/intro.svg) ([Template](https://docs.google.com/presentation/d/1NckcYtXcqGHQG9jKxJEJEZ-79LHxtctmKXTGCCmAFA8/edit?slide=id.p#slide=id.p)) |
+| 2 | Sep 18 | Project pitch | Slides | Prepare a short related-work overview; write up related work for the paper |
+| 3 | Sep 25 | Short overview of related work by every team; related-work write-up for the paper | Slides | Run a baseline and prepare the first figure for Oct 9 |
+| 4 | Oct 2 | **No class** | — | Continue baseline work; prepare the first figure for Oct 9 |
+| 5 | Oct 9 | Run a baseline; show the first figure | Slides | Draft the motivation and research story |
 | 6 | Oct 16 | Motivation & research story | Slides | Complete the assigned reading |
 | 7 | Oct 23 | Instructor lecture | Slides | Create a system-design diagram |
 | 8 | Oct 30 | System-design diagram | Slides | Build a prototype; produce one figure |
@@ -71,6 +91,8 @@ Project goals:
 - Connect the project to related research.
 - Present results clearly to the class.
 - Write the final result as a full publication-ready research paper.
+
+**Each group will lead a lecture on their related work, randomly assigned between October 9 and November 13. You can swap lectures—let us know early!**
 
 Possible project areas include LLM serving for agents, agentic workflow optimization, using AI agents for system optimization, agentic sandbox development and optimization, and many more.
 
@@ -123,7 +145,7 @@ Your reviews must be written originally, and be based on your own understanding 
 
 Every project must be about agentic systems. Projects should ask a concrete research question about systems that can plan, call tools, coordinate with humans, or act across software, data, or organizational environments.
 
-Projects will be done in teams. The minimum team size is 3 students, so students should expect to find and convince at least two other students to work with them on a shared project idea.
+By default, you will work on one of the predefined course projects. Groups should have approximately 4 students, with a minimum of 2. The target outcome is an OSDI, ICML, or VLDB submission.
 
 ### How will projects be structured?
 
@@ -133,6 +155,11 @@ Students are expected to make progress every week. Each lecture will include stu
 
 The course will have multiple project deliverables throughout the semester, not only a final presentation or final paper.
 
-### Can I bring my own Ph.D. project?
+### Can I bring my own Ph.D., hobby, or start-up project?
 
-No. The course project is not meant to be a way to continue an unrelated Ph.D. project. All course projects must be about agentic systems and must satisfy the project expectations for this class, including team formation, weekly shepherd meetings, regular in-class progress presentations, and intermediate deliverables.
+By default, no: you should work on a predefined course project. An exception is possible only if **all** of the following apply:
+
+1. You send your proposed project to Kostis **today (September 11)**.
+2. The project is about **agents + systems**.
+3. You are willing to have more people join your project.
+4. Kostis approves the project.

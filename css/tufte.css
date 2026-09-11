@@ -777,3 +777,55 @@ a:focus-visible {
     scroll-margin-top: 6.5rem;
   }
 }
+
+.course-rail .action-steps {
+  width: auto;
+  margin: 0.4rem 0 0;
+  padding-inline: 1.4rem 0;
+  font-size: inherit;
+  line-height: 1.45;
+  list-style: decimal;
+}
+
+.course-rail .action-steps li {
+  padding: 0.2rem 0;
+  border-bottom: 0;
+}
+
+.course-shell article .immediate-todos {
+  padding: 0.85rem 1rem;
+}
+
+.course-shell article .immediate-todos h2 {
+  margin-top: 0;
+  font-style: normal;
+  font-size: 1.5rem;
+}
+
+.course-shell article .immediate-todos h3 {
+  margin-top: 0.8rem;
+  margin-bottom: 0.4rem;
+  font-size: 1.3rem;
+  padding-top: 0.65rem;
+  border-top: 1px solid rgba(107, 17, 17, 0.25);
+  font-style: normal;
+}
+
+.course-shell article .immediate-todos p,
+.course-shell article .immediate-todos ol {
+  font-size: 1.05rem;
+  line-height: 1.4;
+  margin-block: 0.4rem;
+}
+
+.course-shell article .immediate-todos ol ol {
+  margin-block: 0.15rem;
+}
+
+.course-shell article .immediate-todos > :last-child {
+  margin-bottom: 0;
+}
+
+.course-shell article .immediate-todos li {
+  padding-block: 0.12rem;
+}

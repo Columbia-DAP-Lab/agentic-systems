@@ -11,7 +11,7 @@ title: COMS6113-E001 Topics in Agentic Systems — Fall 2026
 
 1. Get to know and chat with each other after class today.
 2. Sign up for the course [Slack](https://join.slack.com/t/coms6113topic-zqd9570/shared_invite/zt-46z5wa0s6-ZrmfU4j9bF7SKYD3MgqW6g).
-3. Read the [project descriptions](https://docs.google.com/document/d/1g3F_P0N2ADNb0rCtoMUajTb8ascpspPMIQxLrO9SA5w/edit?usp=sharing).
+3. Read the [project descriptions](https://docs.google.com/document/d/1Vl1rhJXF3YNbMzYxPTASYBiAOf5wzyHQn6gyN5LZJmU/edit?usp=sharing).
 4. *By EOD Monday:*
    1. Discuss with other students on Slack.
    2. Decide on a project.

@@ -37,10 +37,10 @@ Broad questions include:
 | Week | Date | Topic | Slides | Action item for next time |
 | --- | --- | --- | --- | --- |
 | 1 | Sep 11 | Intro; projects | [Intro]({{ site.baseurl }}/assets/slides/intro.pdf) | [Project pitch]({{ site.baseurl }}/assets/slides/intro.svg) ([Template](https://docs.google.com/presentation/d/1NckcYtXcqGHQG9jKxJEJEZ-79LHxtctmKXTGCCmAFA8/edit?slide=id.p#slide=id.p)) |
-| 2 | Sep 18 | Project pitch | [Pitches]({{ site.baseurl }}/assets/slides/project-pitches.pdf) | Prepare a short related-work overview; write up related work for the paper |
-| 3 | Sep 25 | Short overview of related work by every team; related-work write-up for the paper | Slides | Run a baseline and prepare the first figure for Oct 9 |
-| 4 | Oct 2 | **No class** | — | Continue baseline work; prepare the first figure for Oct 9 |
-| 5 | Oct 9 | Run a baseline; show the first figure | Slides | Draft the motivation and research story |
+| 2 | Sep 18 | Project pitch | [Pitches]({{ site.baseurl }}/assets/slides/project-pitches.pdf) | Identify 4–5 related papers; select the strongest 1–2 baselines and explain why. Propose one experiment: question, comparison, and expected learning. |
+| 3 | Sep 25 | Related work / baselines (5 min) + first experiment proposal (5 min) | [Related](https://docs.google.com/presentation/d/1oMyT4bcN1bJZHhZBFUQRyvoRg3NgPSuSrW8q5e66-KM/edit?usp=sharing) | Run the proposed experiment with a strong baseline; prepare results and a figure for Oct 9. |
+| 4 | Oct 2 | **No class** | — | Continue the experiment; prepare results for Oct 9. |
+| 5 | Oct 9 | Present experiment results | Slides | Draft the motivation and research story |
 | 6 | Oct 16 | Motivation & research story | Slides | Complete the assigned reading |
 | 7 | Oct 23 | Instructor lecture | Slides | Create a system-design diagram |
 | 8 | Oct 30 | System-design diagram | Slides | Build a prototype; produce one figure |
@@ -52,6 +52,8 @@ Broad questions include:
 | 14 | Dec 11 | **Final project presentations; peer review due** | Slides | — |
 
 </div>
+
+For September 25, duplicate slides 4–9 of the linked deck, fill them in, and append your team’s completed slides to the end before class. Coordinate who presents each part and rehearse; each team has 10 minutes total.
 
 ## Project
 

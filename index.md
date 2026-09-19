@@ -64,7 +64,7 @@ Broad questions include:
 | Week | Date | Topic | Slides | Action item for next time |
 | --- | --- | --- | --- | --- |
 | 1 | Sep 11 | Intro; projects | [Intro]({{ site.baseurl }}/assets/slides/intro.pdf) | [Project pitch]({{ site.baseurl }}/assets/slides/intro.svg) ([Template](https://docs.google.com/presentation/d/1NckcYtXcqGHQG9jKxJEJEZ-79LHxtctmKXTGCCmAFA8/edit?slide=id.p#slide=id.p)) |
-| 2 | Sep 18 | Project pitch | Slides | Prepare a short related-work overview; write up related work for the paper |
+| 2 | Sep 18 | Project pitch | [Project pitches]({{ site.baseurl }}/assets/slides/project-pitches.pdf) | Prepare a short related-work overview; write up related work for the paper |
 | 3 | Sep 25 | Short overview of related work by every team; related-work write-up for the paper | Slides | Run a baseline and prepare the first figure for Oct 9 |
 | 4 | Oct 2 | **No class** | — | Continue baseline work; prepare the first figure for Oct 9 |
 | 5 | Oct 9 | Run a baseline; show the first figure | Slides | Draft the motivation and research story |

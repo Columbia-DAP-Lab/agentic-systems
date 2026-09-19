@@ -5,33 +5,6 @@ title: COMS6113-E001 Topics in Agentic Systems — Fall 2026
 
 # COMS6113: Topics in Agentic Systems — Fall 2026
 
-<div class="course-notice immediate-todos" markdown="1">
-
-## Immediate TODOs
-
-1. Get to know and chat with each other after class today.
-2. Sign up for the course [Slack](https://join.slack.com/t/coms6113topic-zqd9570/shared_invite/zt-46z5wa0s6-ZrmfU4j9bF7SKYD3MgqW6g).
-3. Read the [project descriptions](https://docs.google.com/document/d/1Vl1rhJXF3YNbMzYxPTASYBiAOf5wzyHQn6gyN5LZJmU/edit?usp=sharing).
-4. *By EOD Monday:*
-   1. Discuss with other students on Slack.
-   2. Decide on a project.
-   3. Tag Kostis and Georgios on the Slack channel with the team.
-   4. After that *please* do not drop the course.
-
-### Waitlist?
-
-WHOEVER HAS:
-
-1. **DECIDED ON A PROJECT.**
-2. **COMMUNICATED THE DECISION TO US THROUGH SLACK IN THE PROJECT’S CHANNEL.**
-
-**BY EOD MONDAY**
-
-**WILL BE ADMITTED TO THE CLASS FROM THE WAITLIST**
-
-</div>
-
-
 ## Overview
 
 COMS6113 Topics in Agentic Systems is a research-oriented course on agentic AI systems: systems that can plan, call tools, coordinate with humans, and act across software, data, and organizational environments.
@@ -64,7 +37,7 @@ Broad questions include:
 | Week | Date | Topic | Slides | Action item for next time |
 | --- | --- | --- | --- | --- |
 | 1 | Sep 11 | Intro; projects | [Intro]({{ site.baseurl }}/assets/slides/intro.pdf) | [Project pitch]({{ site.baseurl }}/assets/slides/intro.svg) ([Template](https://docs.google.com/presentation/d/1NckcYtXcqGHQG9jKxJEJEZ-79LHxtctmKXTGCCmAFA8/edit?slide=id.p#slide=id.p)) |
-| 2 | Sep 18 | Project pitch | [Project pitches]({{ site.baseurl }}/assets/slides/project-pitches.pdf) | Prepare a short related-work overview; write up related work for the paper |
+| 2 | Sep 18 | Project pitch | [Pitches]({{ site.baseurl }}/assets/slides/project-pitches.pdf) | Prepare a short related-work overview; write up related work for the paper |
 | 3 | Sep 25 | Short overview of related work by every team; related-work write-up for the paper | Slides | Run a baseline and prepare the first figure for Oct 9 |
 | 4 | Oct 2 | **No class** | — | Continue baseline work; prepare the first figure for Oct 9 |
 | 5 | Oct 9 | Run a baseline; show the first figure | Slides | Draft the motivation and research story |

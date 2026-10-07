@@ -34,26 +34,26 @@ Broad questions include:
 
 <!-- Turn each Slides label into a link when its Google Slides deck is ready. -->
 
-| Week | Date | Topic | Slides | Action item for next time |
-| --- | --- | --- | --- | --- |
-| 1 | Sep 11 | Intro; projects | [Intro]({{ site.baseurl }}/assets/slides/intro.pdf) | [Project pitch]({{ site.baseurl }}/assets/slides/intro.svg) ([Template](https://docs.google.com/presentation/d/1NckcYtXcqGHQG9jKxJEJEZ-79LHxtctmKXTGCCmAFA8/edit?slide=id.p#slide=id.p)) |
-| 2 | Sep 18 | Project pitch | [Pitches]({{ site.baseurl }}/assets/slides/project-pitches.pdf) | Identify 4–5 related papers; select the strongest 1–2 baselines and explain why. Run an initial experiment and bring the first result on Sep 25; explain the question, comparison, and what you learned. |
-| 3 | Sep 25 | Related work / baselines (5 min) + first experiment result (5 min) | [Related](https://docs.google.com/presentation/d/1oMyT4bcN1bJZHhZBFUQRyvoRg3NgPSuSrW8q5e66-KM/edit?usp=sharing) | Extend the experiment with a strong baseline and prepare the full plot by Oct 9. |
-| 4 | Oct 2 | **No class** | — | Complete the experiment and full plot for Oct 9. |
-| 5 | Oct 9 | Present experiment results and the full plot | Slides | Draft the motivation and research story |
-| 6 | Oct 16 | Motivation & research story | Slides | Complete the assigned reading |
-| 7 | Oct 23 | Instructor lecture | Slides | Create a system-design diagram |
-| 8 | Oct 30 | System-design diagram | Slides | Build a prototype; produce one figure |
-| 9 | Nov 6 | Prototype demo & first figure | Slides | Draft the full evaluation plan |
-| 10 | Nov 13 | Full evaluation plan | Slides | Run evaluations; prepare a results discussion |
-| 11 | Nov 20 | Results discussion & iteration | Slides | Revise results and the final paper |
-| 12 | Nov 27 | **No class: Thanksgiving break** | — | Complete the final paper |
-| 13 | Dec 4 | **Final paper submission** | Slides | Prepare the final presentation; complete the peer review |
-| 14 | Dec 11 | **Final project presentations; peer review due** | Slides | — |
+| Week | Date | Deliverable / in class | Slides |
+| --- | --- | --- | --- |
+| 1 | Sep 11 | **Due:** Join Slack; form a team and select a preferred project<br>**In class:** Course introduction and project overview | [Intro]({{ site.baseurl }}/assets/slides/intro.pdf) |
+| 2 | Sep 18 | **Due:** [Project pitch]({{ site.baseurl }}/assets/slides/intro.svg) ([template](https://docs.google.com/presentation/d/1NckcYtXcqGHQG9jKxJEJEZ-79LHxtctmKXTGCCmAFA8/edit?slide=id.p#slide=id.p))<br>**In class:** Project pitches | [Pitches]({{ site.baseurl }}/assets/slides/project-pitches.pdf) |
+| 3 | Sep 25 | **Due:** Related-work/baseline review and first-experiment proposal<br>**In class:** 5-minute related-work/baseline review + 5-minute experiment proposal | [Related](https://docs.google.com/presentation/d/1oMyT4bcN1bJZHhZBFUQRyvoRg3NgPSuSrW8q5e66-KM/edit?usp=sharing) |
+| 4 | Oct 2 | **Due:** —<br>**In class:** No class | — |
+| 5 | Oct 9 | **Due:** Experiment results and complete plot<br>**In class:** Team presentations of results and the full plot | [Experiments](https://docs.google.com/presentation/d/1WA2obEzGXIqxUC_FXT6ZGFpH9204nPxN661wwM5rmfQ/edit?slide=id.p#slide=id.p) |
+| 6 | Oct 16 | **Due:** Motivation write-up in Overleaf<br>**In class:** Polished, rehearsed 10-minute motivation talks | Slides |
+| 7 | Oct 23 | **Due:** Evaluation draft with mock figures<br>**In class:** Student-led lectures by Teams **2, 3, and 8** | Slides |
+| 8 | Oct 30 | **Due:** System-design diagram<br>**In class:** Instructor-led session | Slides |
+| 9 | Nov 6 | **Due:** Main-figure results<br>**In class:** Student-led lectures by Teams **7/18 and 9** | Slides |
+| 10 | Nov 13 | **Due:** Design-section write-up<br>**In class:** Student-led lectures by Teams **12, 13, and 16** | Slides |
+| 11 | Nov 20 | **Due:** Complete evaluation results<br>**In class:** Last-mile project consultations with instructors and mentors | Slides |
+| 12 | Nov 27 | **Due:** —<br>**In class:** No class: Thanksgiving break | — |
+| 13 | Dec 4 | **Due:** Final paper submission<br>**In class:** — | Slides |
+| 14 | Dec 11 | **Due:** Peer review<br>**In class:** Final project presentations | Slides |
 
 </div>
 
-For September 25, duplicate slides 4–9 of the linked deck, fill them in with your related work and first experiment result, and append your team’s completed slides to the end before class. The full plot is due October 9. Coordinate who presents each part and rehearse; each team has 10 minutes total.
+For September 25, duplicate slides 4–9 of the linked deck, fill them in with your related-work review and first-experiment proposal, and append your team’s completed slides to the end before class. The completed experiment and full plot are due October 9. Coordinate who presents each part and rehearse; each team has 10 minutes total.
 
 ## Project
 

@@ -87,12 +87,16 @@ This is a research-oriented course targeted toward Ph.D. students and undergradu
 
 ### Grading
 
+<div class="grading-table-wrapper" role="region" aria-label="Grading breakdown" tabindex="0" markdown="1">
+
 | Component | Weight |
 | --- | ---: |
 | Class participation / discussion (+ reviewing) | 25% |
 | Weekly updates | 25% |
 | Final presentation | 25% |
 | Final paper | 25% |
+
+</div>
 
 ### Participation
 

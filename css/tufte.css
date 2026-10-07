@@ -557,48 +557,42 @@ a:focus-visible {
   line-height: 1.35;
 }
 
-#grading-tentative + table {
-  width: 100%;
-  max-width: 36rem;
-  margin-top: 1rem;
-  border-collapse: collapse;
-}
-
-#grading-tentative + table th,
-#grading-tentative + table td {
-  padding: 0.6rem 0.75rem;
-  font-size: 1.15rem;
-  line-height: 1.45;
-  border-bottom: 1px solid rgba(17, 17, 17, 0.14);
-}
-
-.schedule-table-wrapper {
+.schedule-table-wrapper,
+.grading-table-wrapper {
   width: 100%;
   overflow-x: auto;
   margin-top: 1.4rem;
   margin-bottom: 2rem;
 }
 
-.schedule-table-wrapper:focus-visible {
+.schedule-table-wrapper:focus-visible,
+.grading-table-wrapper:focus-visible {
   outline: 2px solid #555;
   outline-offset: 4px;
 }
 
-.course-shell article .schedule-table-wrapper table {
+.course-shell article .schedule-table-wrapper table,
+.course-shell article .grading-table-wrapper table {
   width: 100%;
-  min-width: 48rem;
   table-layout: fixed;
   border-collapse: collapse;
   border-top: 2px solid #111;
   border-bottom: 2px solid #111;
 }
 
-.schedule-table-wrapper thead {
+.course-shell article .schedule-table-wrapper table {
+  min-width: 48rem;
+}
+
+.schedule-table-wrapper thead,
+.grading-table-wrapper thead {
   border-bottom: 1px solid #111;
 }
 
 .course-shell article .schedule-table-wrapper th,
-.course-shell article .schedule-table-wrapper td {
+.course-shell article .schedule-table-wrapper td,
+.course-shell article .grading-table-wrapper th,
+.course-shell article .grading-table-wrapper td {
   padding: 0.9rem 0.8rem;
   text-align: left;
   vertical-align: top;
@@ -607,17 +601,26 @@ a:focus-visible {
   overflow-wrap: break-word;
 }
 
-.schedule-table-wrapper tbody tr + tr {
+.schedule-table-wrapper tbody tr + tr,
+.grading-table-wrapper tbody tr + tr {
   border-top: 1px solid rgba(17, 17, 17, 0.14);
 }
 
-.schedule-table-wrapper tbody tr:nth-child(even) {
+.schedule-table-wrapper tbody tr:nth-child(even),
+.grading-table-wrapper tbody tr:nth-child(even) {
   background: rgba(17, 17, 17, 0.025);
 }
 
-.schedule-table-wrapper th:nth-child(1) { width: 3rem; }
-.schedule-table-wrapper th:nth-child(2) { width: 4rem; }
-.schedule-table-wrapper th:nth-child(4) { width: 6rem; }
+.schedule-table-wrapper th:nth-child(1) { width: 7%; }
+.schedule-table-wrapper th:nth-child(2) { width: 11%; }
+.schedule-table-wrapper th:nth-child(3) { width: 66%; }
+.schedule-table-wrapper th:nth-child(4) { width: 16%; }
+
+.grading-table-wrapper th:nth-child(2),
+.grading-table-wrapper td:nth-child(2) {
+  width: 8rem;
+  text-align: right;
+}
 
 .schedule-table-wrapper td:nth-child(2) {
   white-space: nowrap;

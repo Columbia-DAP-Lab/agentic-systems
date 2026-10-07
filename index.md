@@ -53,8 +53,6 @@ Broad questions include:
 
 </div>
 
-For September 25, duplicate slides 4–9 of the linked deck, fill them in with your related-work review and first-experiment proposal, and append your team’s completed slides to the end before class. The completed experiment and full plot are due October 9. Coordinate who presents each part and rehearse; each team has 10 minutes total.
-
 ## Project
 
 You will pursue a semester-long research project related to agentic systems. The project is a significant part of the course and is intended to lead to a publication.
@@ -87,7 +85,7 @@ Students should be comfortable conducting a research project and writing up the 
 
 This is a research-oriented course targeted toward Ph.D. students and undergraduate or graduate students interested in doing research, especially students interested in having a publication.
 
-### Grading (Tentative)
+### Grading
 
 | Component | Weight |
 | --- | ---: |
@@ -95,8 +93,6 @@ This is a research-oriented course targeted toward Ph.D. students and undergradu
 | Weekly updates | 25% |
 | Final presentation | 25% |
 | Final paper | 25% |
-
-The grading breakdown is tentative and may be refined before the first lecture.
 
 ### Participation
 

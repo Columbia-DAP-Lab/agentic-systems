@@ -1,2 +1,12 @@
 .bundle/
 .jekyll-cache/
+
+# Local LaTeX build products for the course paper templates.
+paper-templates/*/paper.aux
+paper-templates/*/paper.bbl
+paper-templates/*/paper.blg
+paper-templates/*/paper.fdb_latexmk
+paper-templates/*/paper.fls
+paper-templates/*/paper.log
+paper-templates/*/paper.out
+paper-templates/*/paper.pdf

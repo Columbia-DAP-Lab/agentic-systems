@@ -20,6 +20,8 @@ exclude:
   - Dockerfile
   - docker-compose.yml
   - dockerfile.yml
+  - icml2026.zip
+  - paper-templates
   - .github
   - css/tufte.scss
   - css/tufte.orginal.css

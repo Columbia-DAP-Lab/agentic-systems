@@ -41,7 +41,7 @@ Broad questions include:
 | 3 | Sep 25 | **Due:** Related-work/baseline review and first-experiment proposal<br>**In class:** 5-minute related-work/baseline review + 5-minute experiment proposal | [Related](https://docs.google.com/presentation/d/1oMyT4bcN1bJZHhZBFUQRyvoRg3NgPSuSrW8q5e66-KM/edit?usp=sharing) |
 | 4 | Oct 2 | **Due:** —<br>**In class:** No class | — |
 | 5 | Oct 9 | **Due:** Experiment results and complete plot<br>**In class:** Team presentations of results and the full plot | [Experiments](https://docs.google.com/presentation/d/1WA2obEzGXIqxUC_FXT6ZGFpH9204nPxN661wwM5rmfQ/edit?slide=id.p#slide=id.p) |
-| 6 | Oct 16 | **Due:** Motivation write-up in Overleaf<br>**In class:** Polished, rehearsed 10-minute motivation talks | Slides |
+| 6 | Oct 16 | **Due:** Motivation and research-story draft in Overleaf<br>**In class:** Polished, rehearsed 7–10 minute motivation talks | [Motivation](https://docs.google.com/presentation/d/1cqK28yfSisjcicmltVNl8uHPcZIJloOagE6ktiOC-Hk/edit) |
 | 7 | Oct 23 | **Due:** Evaluation draft with mock figures<br>**In class:** Student-led lectures by Teams **2, 3, and 8** | Slides |
 | 8 | Oct 30 | **Due:** System-design diagram<br>**In class:** Instructor-led session | Slides |
 | 9 | Nov 6 | **Due:** Main-figure results<br>**In class:** Student-led lectures by Teams **7/18 and 9** | Slides |

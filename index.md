@@ -43,7 +43,7 @@ Broad questions include:
 | 5 | Oct 9 | **Due:** Experiment results and complete plot<br>**In class:** Team presentations of results and the full plot | [Experiments](https://docs.google.com/presentation/d/1WA2obEzGXIqxUC_FXT6ZGFpH9204nPxN661wwM5rmfQ/edit?slide=id.p#slide=id.p) |
 | 6 | Oct 16 | **Due:** Motivation and research-story draft in Overleaf<br>**In class:** Polished, rehearsed 7–10 minute motivation talks | [Motivation](https://docs.google.com/presentation/d/1cqK28yfSisjcicmltVNl8uHPcZIJloOagE6ktiOC-Hk/edit) |
 | 7 | Oct 23 | **Due:** Evaluation draft with mock figures<br>**In class:** Student-led lectures by Teams **2, 3, and 8** | Slides |
-| 8 | Oct 30 | **Due:** System-design diagram<br>**In class:** Instructor-led session | Slides |
+| 8 | Oct 30 | **Due:** System-design diagram<br>**In class:** Instructor-led session | [Slides](https://docs.google.com/presentation/d/1rp14eUMTW6G9EyVgB1vi2P7hUlb68eMd5zoMkUP3WPw/edit) |
 | 9 | Nov 6 | **Due:** Main-figure results<br>**In class:** Student-led lectures by Teams **7/18 and 9** | Slides |
 | 10 | Nov 13 | **Due:** Design-section write-up<br>**In class:** Student-led lectures by Teams **12, 13, and 16** | Slides |
 | 11 | Nov 20 | **Due:** Complete evaluation results<br>**In class:** Last-mile project consultations with instructors and mentors | Slides |
